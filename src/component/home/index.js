@@ -8,7 +8,7 @@ const Home = () => {
       <div>Home ne, 10 tỷ</div>
       <div>Home ne, 20 tỷ</div>
       <div>Home ne, 30 tỷ</div>
-
+    <div>Home ne, 100 tỷ</div>
     </div>
   );
 };
